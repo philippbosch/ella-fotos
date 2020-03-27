@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Photo Book`,
-    description: `Share your photosets with style.`,
-    author: `baobabKoodaa`,
+    title: `Ellas Fotos`,
+    description: ``,
+    author: `Ella`,
   },
   plugins: [
     {
@@ -10,7 +10,7 @@ module.exports = {
       options: {
         isTSX: true, // defaults to false
         //jsxPragma: `jsx`, // defaults to "React" ??
-        allExtensions: true
+        allExtensions: true,
       },
     },
     {

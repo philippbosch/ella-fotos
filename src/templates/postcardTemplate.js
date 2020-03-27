@@ -253,7 +253,7 @@ class PostcardTemplate extends React.Component {
       <>
         <Helmet>
           <meta charSet="utf-8" />
-          <title>{`Photo from Gatsby Starter Photo Book` /* Note: not a good idea to put image id here (needs JS to render the correct id). */}</title>
+          <title>{`Ellas Fotos` /* Note: not a good idea to put image id here (needs JS to render the correct id). */}</title>
 
           <style>
             {/*
